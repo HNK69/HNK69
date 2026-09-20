@@ -201,13 +201,13 @@ Retrieves relevant course-video context and generates answers grounded in source
 </tr>
 </table>
 
-### Hackathon / Competitive Engineering
+### 🏆 Hackathon / Competitive Engineering
 
-- 🏆 **EcoSentinel** — 1st-prize TinyML environmental monitoring system
-- 🚦 **CivicSenseAI** — Gemma Hackathon smart-governance system
-- 🛰️ **ISRO Hackathon** — route resilience, road extraction and graph-criticality analysis
-- 📈 **Amazon ML Challenge** — large-scale ML / data engineering preparation
-- 💳 **Credit Card Fraud Detection** — tuned XGBoost pipeline with PR-AUC **0.8248**
+- 🏆 **EcoSentinel** — 1st Prize, NextGen Project Expo — RNSIT
+- 🥈 **EcoSentinel** — Runner-up / 2nd Prize, INoVEX 3.0 — IIT Dharwad
+- 🏅 **EcoSentinel** — Semifinalist, Build With Bharat 2.0 — NIT Delhi
+- 🏆 **FeelSafe** — 1st Prize, Rajarajeshwari College of Engineering — Bengaluru
+- 🏅 **Arbitrage Arena 2026** — Semifinalist, IISc Bengaluru
 
 ---
 
