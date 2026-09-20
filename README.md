@@ -272,13 +272,17 @@ Agentic Systems
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HNK69&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNK69&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HNK69&theme=github_dark" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=HNK69&theme=transparent&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HNK69&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HNK69&theme=github_dark" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=HNK69&theme=dark&hide_border=true" />
 
 </div>
 
