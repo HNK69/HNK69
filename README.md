@@ -266,3 +266,28 @@ Agentic Systems
 ├── tool-using agents
 ├── RAG
 └── long-term context
+```
+
+## `06` / GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HNK69&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HNK69&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=HNK69&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build the difficult part.
+
+<sub>AI · Systems · Edge · Software</sub>
+
+</div>
